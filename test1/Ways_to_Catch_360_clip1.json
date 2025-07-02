@@ -1,0 +1,542 @@
+{
+    "0": {
+        "body_pose": "Their left thigh, their left upper arm and their right forearm are horizontal with their feet and both hands backwards, their left arm is under their right arm while both knees are bent slightly, shoulder width apart with their right hand raised, raised over their right shoulder, both elbows are rather bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "Her left pinky is rather bent while her middles, her right ring and her indexs are near to other fingers and her left ring is bent a bit, slightly spread to other fingers , her left middle, her left thumb and her left index are bent a bit while her thumbs are wide apart.",
+        "rhand_pose": "Their right index, their right ring, their right thumb and their right pinky are rather bent, their right middle is bent to the max."
+    },
+    "1": {
+        "body_pose": "Their right calf is horizontal. Their right hand is raised above their right shoulder and up and both hands are wide apart with both hands and both feet stretched backwards and their left hand under their left hip while both knees are shoulder width apart and are slightly bent. Their elbows are partially bent and their right elbow is in front of the left. Their left arm is below the right.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring is slightly spread to other fingers , slightly bent and the left pinky is partially bent with the left index, the left middle and the left thumb bent a bit, both middles, the right ring and the indexs are close to other fingers . Both thumbs are spread apart.",
+        "rhand_pose": "Their right middle is bent sharply. Their right thumb is bent a bit."
+    },
+    "2": {
+        "body_pose": "Both knees are rather bent, shoulder width apart with her right arm raised above her left arm. Her hands are spread far apart and her right elbow is partly bent, her left hand is under her left hip with her left elbow a bit bent with her feet and both hands backwards while her right hand is raised. It is lying over her right shoulder.",
+        "emotion": "Surprise",
+        "lhand_pose": "The indexs, the right ring and both middles are beside other fingers and the left middle, the left pinky and the left index are bent. The right thumb is slightly spread to other fingers while the left ring is slightly spread to other fingers and nearly bent with the left thumb slightly bent and spread far apart.",
+        "rhand_pose": "The right thumb is nearly bent with the right pinky bent and the right index, the right middle and the right ring bent to the max."
+    },
+    "3": {
+        "body_pose": "Their right forearm is parallel to the ground while their right knee is about shoulder width apart from the left, their left elbow is nearly bent, their right elbow and both knees are rather bent with both hands spread apart and backwards, their right arm is further up than the left while their left hand is lying beneath their left hip and their right hand is raised higher than their right shoulder. It is upwards with their feet in their back.",
+        "emotion": "Surprise",
+        "lhand_pose": "His right thumb and his left ring are slightly spread to other fingers with his left index, his left middle, his left ring and his left pinky partially bent, his left thumb is spread apart and bent slightly.",
+        "rhand_pose": "Their right ring, their right index, their right pinky and their right middle are bent to maximum, their right thumb is slightly bent."
+    },
+    "4": {
+        "body_pose": "Their left knee and their right elbow are bent. Their right knee is in l-shape. Their right arm is further up than the other. Their left elbow is bent slightly, their left hand is under their left hip, spread far apart from their right hand. Their left foot, their right foot and their hands are in their back while their right forearm is flat. Their knees are about shoulder width apart.",
+        "emotion": "Surprise",
+        "lhand_pose": "The right ring, the middles and the indexs are near to other fingers and the left thumb is bent slightly. It is wide apart, the left ring and the right thumb are slightly apart from other fingers .",
+        "rhand_pose": "Her right index, her right pinky, her right ring and her right middle are bent sharply with her right thumb a bit bent."
+    },
+    "5": {
+        "body_pose": "The knees are bent at 90 degrees while the right forearm is flat. The left elbow is bent slightly while the left hand is under the left hip with the left knee approximately shoulder width apart from the right knee with the right elbow partially bent, both hands are spread far apart. The right hand is towards the ceiling. It is further up than the right shoulder. The right foot, the hands and the left foot are reaching backward while the right arm is over the other.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb is bent a bit and spread far apart and the right thumb is slightly spread to other fingers , the left ring, the left index, the left pinky and the left middle are partially bent.",
+        "rhand_pose": "The right ring, the right pinky and the right middle are bent to the max and the right thumb is bent slightly. The right index is partly bent."
+    },
+    "6": {
+        "body_pose": "Both feet and their hands are reaching backward with their knees bent at 90 degrees with their right knee shoulder width apart from the left with their hands further down than both hips and their left arm beneath their right arm and their right hand reaching up while their left elbow is barely bent with their right elbow partially bent. Their left hand is spread far apart from the right.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb is a bit bent and spread apart and the left middle, the left pinky, the left index and the left ring are bent, both rings, both middles and the indexs are near other fingers while the right thumb is slightly apart from other fingers .",
+        "rhand_pose": "His right thumb is slightly bent. His right index is partially bent. His right pinky, his right middle and his right ring are bent sharply."
+    },
+    "7": {
+        "body_pose": "The left arm is lying beneath the right arm, both knees are separated at shoulder width while both hands and both feet are reaching backward and the right hand is wide apart from the other, the right elbow and both knees are at right angle with the left upper arm parallel to the ground and the left elbow partly bent with the hands beneath the hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "His left ring, his left index, his left middle and his left pinky are bent. His rings, both middles and his indexs are near other fingers and his right thumb is slightly apart from other fingers . His left thumb is wide apart and a bit bent.",
+        "rhand_pose": "The right middle, the right ring, the right index and the right pinky are bent sharply and the right thumb is nearly bent."
+    },
+    "8": {
+        "body_pose": "Both hands are lying beneath both hips and are spread apart and his left hand is located in front of his right hand, both knees are forming a l shape. They are about shoulder width apart with his right elbow bent at near a 90 degree angle, his left elbow is partially bent and his left upper arm is aligned horizontally with his right hand and his feet extended back.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb is nearly bent. Their left index, their left pinky, their left middle and their left ring are partly bent, their thumbs are spread apart while both rings, their middles and both indexs are near other fingers .",
+        "rhand_pose": "Their right thumb is a bit bent, their right middle, their right pinky, their right index and their right ring are completely bent."
+    },
+    "9": {
+        "body_pose": "Their left elbow and their left knee are partly bent, their right knee is about shoulder width apart from their left knee. Their right knee and their right elbow are at right angle with their feet and their right hand in the back. Their hands are wide apart, lying beneath both hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "His left middle, his left pinky and his left index are partially bent and his right thumb is spread far apart while his left ring is near to other fingers , rather bent. His left thumb is wide apart and a bit bent, his middles, his right ring and both indexs are near to other fingers .",
+        "rhand_pose": "The right pinky is rather bent while the right index, the right middle and the right ring are bent to the max. The right thumb is slightly bent."
+    },
+    "10": {
+        "body_pose": "The left knee is partly bent. The right knee and the left elbow are in l-shape with both knees shoulder width apart. The left hand is under the left hip, the right upper arm is parallel to the floor and the right foot is further up than the left while both hands are apart, the right elbow is almost completely bent and in the back of the left elbow, the right hand is below the left hand and underneath the right hip and the feet are behind the back.",
+        "emotion": "Happy",
+        "lhand_pose": "Their thumbs are slightly apart from other fingers and their left thumb is bent a bit with their left ring and their left middle bent to maximum, their rings, their left index, their middles and their right index are near other fingers while their left index and their left pinky are rather bent.",
+        "rhand_pose": "The right pinky, the right index and the right ring are bent. The right middle is bent to maximum and the right thumb is nearly bent."
+    },
+    "11": {
+        "body_pose": "Their hands are lying beneath both hips while both knees are partly bent. Their right elbow is behind their left elbow. It is almost completely bent with their feet behind the back. Their left hand is apart wider than shoulder width from the other. Their right knee is shoulder width apart from the left. Their left elbow is forming a l shape and their right foot is above the other while their right arm is underneath the left.",
+        "emotion": "Happy",
+        "lhand_pose": "Their left ring and their left middle are bent sharply with their left thumb bent slightly, both rings, their middles and their indexs are close to other fingers . Their thumbs are slightly spread to other fingers . Their left pinky and their left index are bent.",
+        "rhand_pose": "His right ring, his right index and his right pinky are bent with his right middle fully bent while his right thumb is barely bent."
+    },
+    "12": {
+        "body_pose": "Her hands are spread apart, below both hips and her body is leaning forwards. Her left forearm is vertical with her knees barely bent and shoulder width apart while both feet are behind her back and her torso, her left upper arm and her left calf are flat with her right elbow almost completely bent with her left foot below the other while her left elbow is bent at 90 degrees. It is raised over her right elbow.",
+        "emotion": "Disgust",
+        "lhand_pose": "Both thumbs are slightly spread to other fingers with her middles, her rings and both indexs close to other fingers with her left middle, her left ring, her left index and her left pinky partly bent. Her left thumb is bent slightly.",
+        "rhand_pose": "The right index, the right ring and the right pinky are bent, the right middle is bent sharply. The right thumb is almost straight."
+    },
+    "13": {
+        "body_pose": "The left calf, the torso and the right forearm are parallel to the ground with the right hand lower than the right hip, ahead of the left hand. It is further than shoulder width apart from the left hand and the right knee bent slightly, the left foot is under the right foot with the left knee close to the right knee. It is unbent while the right elbow is almost completely bent, under the left elbow and both feet are behind their back, the figure is reaching forward, the left elbow is bent at near a 90 degree angle.",
+        "emotion": "Disgust",
+        "lhand_pose": "Her right ring, her middles and her indexs are beside other fingers . Her left ring, her left pinky, her left thumb, her left index and her left middle are bent slightly with her left ring slightly apart from other fingers . Both thumbs are spread apart.",
+        "rhand_pose": "His right pinky is partially bent and his right thumb is almost straight."
+    },
+    "14": {
+        "body_pose": "Their left foot is below the right while their knees are next to each other, both feet are reaching backward while their right hand is in front of their left hand and below their right hip, apart wider than shoulder width from their left hand while their left knee is unbent and their body is hunched over, their torso, their right forearm and their left calf are parallel to the ground with their left elbow forming a l shape with their right shoulder below their left shoulder. Their right elbow is bent, their left arm is further up than the right and their right knee is bent a bit.",
+        "emotion": "Disgust",
+        "lhand_pose": "His left ring is slightly apart from other fingers and almost straight with his thumbs wide apart and his left thumb slightly bent, both indexs, both middles and his right ring are near to other fingers .",
+        "rhand_pose": "Their right thumb is almost unbent while their right ring, their right index, their right middle and their right pinky are bent to the max."
+    },
+    "15": {
+        "body_pose": "Their left elbow is bent, higher than their right elbow while their feet are in the back with their right elbow almost completely bent with their right foot out to the left. Their left shoulder is raised over the other, the figure is inclined forward, both knees are bent a bit, their right hand is located in front of their left hand and below their right hip and their left leg is near to the other with their left hand spread apart from the right.",
+        "emotion": "Disgust",
+        "lhand_pose": "The left thumb is a bit bent. The left ring is slightly spread to other fingers and almost unbent with the right index, the left index, the left middle, the right middle and the right ring beside other fingers and both thumbs spread far apart with the left pinky, the left index and the left middle almost unbent.",
+        "rhand_pose": "Her right thumb is bent a bit with her right pinky, her right middle, her right index and her right ring bent to maximum."
+    },
+    "16": {
+        "body_pose": "Both feet are behind their back with the figure angled forwards, in a kneeling position while their left leg is joined with their right leg, their left elbow is bent at near a 90 degree angle, their left arm is higher than their right arm while their right elbow is bent, their right forearm and their left calf are parallel to the ground with their left shoulder lying over their right shoulder while both knees are bent slightly. Their right hand is below their right hip, in front of their left hand and both hands are past shoulder width apart.",
+        "emotion": "Disgust",
+        "lhand_pose": "Her thumbs are wide apart while her left pinky, her left thumb and her left middle are a bit bent. Her left index is almost unbent, her left ring is bent slightly and slightly spread to other fingers and both indexs, both middles and her right ring are beside other fingers .",
+        "rhand_pose": "Their right thumb is slightly bent with their right pinky, their right middle, their right ring and their right index bent to the max."
+    },
+    "17": {
+        "body_pose": "Their feet are reaching backward with their body inclined forward. It is in a kneeling position. Their left shoulder is higher than the right while their right hand is in front of their left hand, beneath their right hip and further than shoulder width apart from their left hand, their right forearm, their left upper arm and their right calf are aligned horizontally and their left knee and their right knee are nearly bent and their right elbow is rather bent and their left elbow is rather bent, their left arm is above the right and their right leg is near their left leg.",
+        "emotion": "Disgust",
+        "lhand_pose": "The left thumb is a bit bent, slightly apart from other fingers . The left middle and the left pinky are partly bent. The rings, the indexs and the middles are near to other fingers while the right thumb is spread far apart.",
+        "rhand_pose": "The right ring, the right index and the right middle are bent sharply while the right pinky is rather bent while the right thumb is a bit bent."
+    },
+    "18": {
+        "body_pose": "Both feet are reaching backward and the left hand is located behind the right with the right elbow almost completely bent while the right shoulder is underneath the left, both calves are parallel to the floor. The knees are close while the right knee is slightly bent with the left knee and the left elbow partly bent. The left arm is raised over the right arm and the figure is inclined forward.",
+        "emotion": "Disgust",
+        "lhand_pose": "The left thumb is spread apart and is bent slightly. Both rings, the middles and the indexs are near to other fingers with the left middle and the left pinky bent sharply while the left index and the left ring are partly bent. The right thumb is slightly spread to other fingers .",
+        "rhand_pose": "His right middle is completely bent while his right thumb is slightly bent while his right index, his right ring and his right pinky are partially bent."
+    },
+    "19": {
+        "body_pose": "Their right hand is spread apart from their left hand and ahead of their left hand and both feet are separated at shoulder width and stretched backwards and their right elbow is bent at near a 90 degree angle. Their hands are underneath both hips, their calves, their torso and their right upper arm are parallel to the ground. Their left elbow is beneath their right elbow and is partly bent and both knees are a bit bent with their right knee at the level of their left knee with the figure hunched over.",
+        "emotion": "Disgust",
+        "lhand_pose": "Their left thumb is bent a bit. It is spread far apart and their left pinky, their left middle and their left ring are bent to maximum. Their right thumb is slightly spread to other fingers . Their left index is rather bent, both indexs, both middles and both rings are close to other fingers .",
+        "rhand_pose": "Her right thumb is barely bent while her right ring, her right middle, her right index and her right pinky are bent."
+    },
+    "20": {
+        "body_pose": "The right forearm is straightened up. Both knees are bent slightly. The left hand is behind the right with the right calf, the torso and the right upper arm flat while the right elbow is at right angle, above the left elbow while the left elbow is rather bent, the hands are apart and underneath both hips, the feet and the left hand are in their back, both feet are shoulder width apart while the right knee is separated at shoulder width from the other.",
+        "emotion": "Happy",
+        "lhand_pose": "The right thumb is slightly spread to other fingers . The left pinky, the left index and the left ring are partially bent. The left middle is bent to maximum. The left thumb is bent a bit and wide apart, the middles, both rings and the indexs are close to other fingers .",
+        "rhand_pose": "The right index, the right pinky and the right ring are partly bent while the right thumb is nearly bent. The right middle is bent to the max."
+    },
+    "21": {
+        "body_pose": "The left elbow is further down than the right elbow and nearly bent with the right hand in front of the left hand, spread far apart from the left hand while the left hand is back. The hands are below both hips while both feet are behind their back. They are separated at shoulder width. The right upper arm is aligned horizontally while the right elbow is forming a l shape.",
+        "emotion": "Anger",
+        "lhand_pose": "Both middles, the rings and both indexs are near other fingers with the left middle, the left index, the left pinky and the left ring bent, both thumbs are wide apart while the left thumb is barely bent.",
+        "rhand_pose": "The right pinky and the right middle are bent to maximum, the right thumb, the right index and the right ring are bent."
+    },
+    "22": {
+        "body_pose": "Both feet and the left hand are back with the right elbow partly bent and the right knee approximately shoulder width apart from the left and the right arm lying over the other while the left elbow and the knees are a bit bent with both hands under both hips, spread far apart.",
+        "emotion": "Anger",
+        "lhand_pose": "His left pinky is a bit bent. His right thumb is spread far apart, his left middle, his left ring and his left index are partially bent, his left thumb is almost straight and is slightly spread to other fingers and his middles, his rings and his indexs are near other fingers .",
+        "rhand_pose": "Their right pinky, their right ring, their right middle and their right index are fully bent with their right thumb bent."
+    },
+    "23": {
+        "body_pose": "Her knees are approximately shoulder width apart while her right knee and her left elbow are bent slightly while her left upper arm is parallel to the ground, her feet and her right hand are in her back and her left hand is lying beneath her left hip with her hands wide apart with her left knee and her right elbow partially bent with her left arm under her right arm. It is ahead of her right arm.",
+        "emotion": "Disgust",
+        "lhand_pose": "Their left pinky is bent slightly. Their right thumb is spread far apart and their left thumb and their right index are slightly apart from other fingers while their rings, their left index and their middles are near other fingers while their left thumb is almost straight while their left middle, their left ring and their left index are rather bent.",
+        "rhand_pose": "The right thumb is partly bent with the right pinky, the right middle, the right index and the right ring bent to maximum."
+    },
+    "24": {
+        "body_pose": "Their right hand and their feet are reaching backward. Their right elbow and their left knee are partially bent, their left elbow is nearly bent, below their right elbow, their left upper arm is parallel to the ground. Both hands are lying beneath their hips and are wide apart while their right arm is in the back of the other, their right knee is slightly bent. It is separated at shoulder width from their left knee.",
+        "emotion": "Neutral",
+        "lhand_pose": "His left index is near other fingers . It is partly bent. His right thumb is wide apart and his left thumb is almost straight, slightly apart from other fingers and his right index is slightly apart from other fingers and his left ring, his left middle and his left pinky are partially bent.",
+        "rhand_pose": "The right thumb is bent slightly with the right ring, the right pinky, the right middle and the right index completely bent."
+    },
+    "25": {
+        "body_pose": "Her elbows and her left knee are bent, her knees are separated at shoulder width and her left hand is wide apart from her right hand, lying beneath her left hip, her right knee is a bit bent and her left arm is located in front of her right arm and her right hand is beneath her right hip while her left upper arm is horizontal and both feet and her right hand are in her back.",
+        "emotion": "Disgust",
+        "lhand_pose": "His left thumb is barely bent, slightly spread to other fingers . His right thumb is spread far apart, his right index is slightly spread to other fingers , his left index, his left pinky and his left ring are bent and his left middle is bent to the max while his right middle, his left index, both rings and his left middle are near other fingers .",
+        "rhand_pose": "The right thumb is bent a bit."
+    },
+    "26": {
+        "body_pose": "Both elbows and both knees are rather bent while the right hand and both feet are in their back and the left arm is in front of the other. The right hand is spread far apart from the left hand and both hands are lying beneath the hips.",
+        "emotion": "Happy",
+        "lhand_pose": "Their left index, their left ring, their left pinky and their left middle are rather bent. Their left thumb is a bit bent. Their left thumb and their right index are slightly spread to other fingers with their right thumb spread far apart. Both rings, their left index and both middles are close to other fingers .",
+        "rhand_pose": "The right thumb is nearly bent while the right middle and the right ring are bent to maximum while the right index and the right pinky are bent."
+    },
+    "27": {
+        "body_pose": "The right hand and the feet are reaching backward with both hands wide apart, under the hips. The right arm is behind the other with both knees and both elbows rather bent.",
+        "emotion": "Happy",
+        "lhand_pose": "Their right index is slightly spread to other fingers while their left thumb is nearly bent. Their left index, their left ring, their left middle and their left pinky are partly bent with their left index, both middles and both rings near other fingers , both thumbs are spread apart.",
+        "rhand_pose": "His right thumb is barely bent. His right ring, his right pinky, his right index and his right middle are rather bent."
+    },
+    "28": {
+        "body_pose": "The left elbow and the left knee are rather bent and both hands are further down than the hips, the left hand is spread far apart from the right hand. The right elbow and the right knee are in l-shape while the right arm is located behind the left while the right foot is spread far apart from the other and the right hand and both feet are extended back.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left index, their left ring and their left middle are partly bent with both thumbs spread apart with their left pinky and their left thumb bent slightly.",
+        "rhand_pose": "The right thumb is bent a bit."
+    },
+    "29": {
+        "body_pose": "The right knee is at right angle with the left elbow and the left knee partially bent and the right hand and both feet behind the back while the right elbow is bent at 90 degrees and located behind the left elbow while both hands are underneath both hips, spread apart.",
+        "emotion": "Fear",
+        "lhand_pose": "Both thumbs are spread apart with the rings, the middles and the indexs near other fingers and the left middle, the left index and the left ring rather bent while the left thumb and the left pinky are slightly bent.",
+        "rhand_pose": "The right thumb and the right pinky are a bit bent, the right index, the right ring and the right middle are partially bent."
+    },
+    "30": {
+        "body_pose": "Both hands are lying beneath both hips and are spread. Both feet are spread apart and extended back while the right knee and both elbows are bent at near a 90 degree angle while the left knee is partly bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both thumbs are wide apart. Both rings, both indexs and both middles are beside other fingers with the left thumb a bit bent while the left middle, the left pinky, the left index and the left ring are partly bent.",
+        "rhand_pose": "Her right pinky, her right thumb, her right ring, her right index and her right middle are slightly bent."
+    },
+    "31": {
+        "body_pose": "The left forearm is vertical, the right foot is raised above the other. Both feet are in their back and the hands are below the hips while the left elbow and the knees are bent at near a 90 degree angle and the right hand is past shoulder width apart from the left hand while the right upper arm is parallel to the floor, the right elbow is bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring is bent slightly while the left thumb is a bit bent. It is wide apart, the left pinky, the left index and the left middle are partly bent, the right thumb is slightly apart from other fingers . The indexs, both middles and the rings are close to other fingers .",
+        "rhand_pose": "Their right middle, their right ring, their right thumb and their right index are slightly bent with their right pinky almost unbent."
+    },
+    "32": {
+        "body_pose": "The right hand is past shoulder width apart from the other, the left foot is lying beneath the other with the right elbow rather bent with both feet spread far apart, stretched backwards while the left upper arm is horizontal, both hands are further down than both hips. The left elbow and both knees are forming a l shape.",
+        "emotion": "Fear",
+        "lhand_pose": "The right thumb is slightly spread to other fingers while the left thumb is nearly bent, spread apart with the left middle, the left index, the left ring and the left pinky nearly bent with the rings, both indexs and the middles near other fingers .",
+        "rhand_pose": "The right index, the right thumb and the right middle are bent a bit and the right pinky and the right ring are almost straight."
+    },
+    "33": {
+        "body_pose": "Their knees are bent at right angle, both feet are backwards, their right foot is higher than the other while their right elbow is rather bent, both hands are lying beneath both hips and further than shoulder width apart. Their left elbow is forming a l shape, raised higher than their right elbow.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left pinky, the left ring, the left thumb, the left index and the left middle are bent slightly, both thumbs are wide apart. The rings, the indexs and the middles are near other fingers .",
+        "rhand_pose": "His right index and his right thumb are bent a bit with his right middle, his right pinky and his right ring almost unbent."
+    },
+    "34": {
+        "body_pose": "The hands are about shoulder width apart and underneath the hips. The left foot is underneath the right. The feet are extended back and both knees and the elbows are bent at 90 degrees.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb is slightly bent and is slightly apart from other fingers while the left middle is partly bent and both indexs, the middles and the rings are close to other fingers while the left ring, the left pinky and the left index are nearly bent with the right thumb wide apart.",
+        "rhand_pose": "The right thumb, the right index and the right middle are slightly bent. The right ring and the right pinky are almost unbent."
+    },
+    "35": {
+        "body_pose": "The left foot is spread far apart from the right foot, both hands are approximately shoulder width apart with the right hand beneath the right hip with the right elbow and the right knee bent at right angle and the left hand below the left hip while the feet are in their back. The left elbow and the left knee are partially bent. The right foot is raised higher than the left foot and is raised over the right hip.",
+        "emotion": "Surprise",
+        "lhand_pose": "His left thumb is slightly apart from other fingers . It is nearly bent, his left ring, his left index and his left pinky are bent slightly while his left middle is bent while his rings, his indexs and both middles are near to other fingers , his right thumb is spread apart.",
+        "rhand_pose": "The right index, the right thumb, the right ring and the right middle are a bit bent, the right pinky is almost unbent."
+    },
+    "36": {
+        "body_pose": "His knees and his right elbow are in l-shape while his torso is parallel to the floor, the figure is bent over while his feet are in the back and his left elbow is partially bent while both hands are further down than his hips. They are approximately shoulder width apart with his left foot under the right with his right foot spread far apart from the other.",
+        "emotion": "Surprise",
+        "lhand_pose": "Her left thumb is almost straight and slightly apart from other fingers , her left middle, her left index, her left pinky and her left ring are partly bent, both rings, her middles and both indexs are near to other fingers , her right thumb is spread far apart.",
+        "rhand_pose": "Their right index and their right middle are bent while their right ring, their right pinky and their right thumb are barely bent."
+    },
+    "37": {
+        "body_pose": "His feet are stretched backwards with both hands lying beneath both hips. His right foot is higher than his right hip with the figure reaching forward, his torso and his right forearm are aligned horizontally and his left elbow is partly bent and his right knee is behind his left knee and his right leg is over the other. His left foot is wide apart from the right. His right hand is near the left with his right elbow and his knees in l-shape.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb is almost unbent, both indexs, their middles and their rings are close to other fingers and their thumbs are slightly apart from other fingers and their left ring, their left middle, their left pinky and their left index are rather bent.",
+        "rhand_pose": "His right index and his right middle are partly bent while his right ring, his right pinky and his right thumb are slightly bent."
+    },
+    "38": {
+        "body_pose": "The right foot is lying over the right hip with the left knee ahead of the other, the right hand is close to the other, the torso is aligned horizontally. They are angled forwards. The elbows are partly bent. The left foot is spread far apart from the other with both hands below both hips with the knees at right angle with the feet behind their back, the right leg is higher than the other.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb is almost straight, their left pinky, their left middle and their left index are bent, their right ring and both thumbs are slightly spread to other fingers with both indexs, their left ring and both middles close to other fingers while their left ring is slightly bent.",
+        "rhand_pose": "The right pinky, the right middle and the right index are bent, the right ring and the right thumb are bent slightly."
+    },
+    "39": {
+        "body_pose": "Their right foot is raised above their right hip with both hands approximately shoulder width apart, underneath their hips and their feet extended back, spread apart while their torso is parallel to the floor while their right knee is located behind the other. Their knees are bent at 90 degrees and both elbows are partially bent. Their left leg is beneath their right leg.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left index and their left pinky are partly bent while their right ring and their thumbs are slightly spread to other fingers with both middles, their left ring and their indexs close to other fingers while their left thumb is almost unbent with their left ring and their left middle barely bent.",
+        "rhand_pose": "The right middle, the right pinky, the right ring and the right index are partially bent while the right thumb is slightly bent."
+    },
+    "40": {
+        "body_pose": "The right forearm is aligned horizontally while the left elbow is bent with both hands approximately shoulder width apart and lower than the hips and the knees and the right elbow in l-shape, the left knee is in front of the right knee with the right foot over the right hip and the feet wide apart. They are in their back while the right leg is over the other.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb is almost straight while the left index is partly bent. It is beside other fingers and the right ring and the thumbs are slightly spread to other fingers with the left ring bent a bit, close to other fingers while the right index and the middles are near to other fingers .",
+        "rhand_pose": "Her right thumb is a bit bent, her right index, her right pinky, her right ring and her right middle are bent."
+    },
+    "41": {
+        "body_pose": "The right leg is further up than the left while both feet are wide apart and are reaching backward. The right foot is above the right hip and the knees and the right elbow are bent at 90 degrees with the right knee in the back of the left and the left elbow partially bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb is almost unbent while their left thumb and their right ring are slightly spread to other fingers with both middles, their right thumb and both indexs near other fingers with their left pinky, their left index and their left middle partially bent. Their left ring is bent a bit and is near to other fingers .",
+        "rhand_pose": "The right index, the right middle, the right pinky and the right ring are partially bent. The right thumb is slightly bent."
+    },
+    "42": {
+        "body_pose": "The right forearm is aligned horizontally and the right knee is located behind the left, the knees and the right elbow are at right angle and both hands are shoulder width apart, below both hips while the right upper arm is upright while the left elbow is partly bent, the feet are spread far apart, stretched backwards while the left foot is under the other. The right foot is above the right hip.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb is almost unbent. Their right ring and both thumbs are slightly apart from other fingers and their left pinky, their left index and their left ring are partly bent while their left middle is bent a bit.",
+        "rhand_pose": "The right ring, the right pinky, the right index and the right middle are bent, the right thumb is slightly bent."
+    },
+    "43": {
+        "body_pose": "The left foot is wide apart from the other and the hands are next to each other and below the hips while both feet are stretched backwards with the right foot further up than the left foot. It is raised higher than the right hip. The left elbow is bent while the right upper arm is vertical while the knees and the right elbow are at right angle.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb is almost straight. Their right index, their left ring, both middles and their left index are beside other fingers , their left ring is bent slightly, their left pinky, their left middle and their left index are partly bent. Their thumbs and their right ring are slightly spread to other fingers .",
+        "rhand_pose": "Their right middle and their right thumb are nearly bent while their right pinky, their right ring and their right index are bent."
+    },
+    "44": {
+        "body_pose": "Both feet are reaching backward. The right foot is higher than the left foot with the left foot wide apart from the right foot while both hands are further down than both hips, about shoulder width apart, the knees and both elbows are bent at right angle and the right elbow is in the back of the left.",
+        "emotion": "Surprise",
+        "lhand_pose": "Her left thumb is a bit bent while both thumbs and her right ring are slightly apart from other fingers and her left pinky, her left ring, her left index and her left middle are partially bent while her left ring, both middles and her indexs are near to other fingers .",
+        "rhand_pose": "Their right pinky is bent to maximum, their right ring, their right index and their right middle are partially bent while their right thumb is bent slightly."
+    },
+    "45": {
+        "body_pose": "Both knees and her elbows are bent at right angle, both feet are backwards with her left foot beneath her right foot and wide apart from her right foot, her hands are separated at shoulder width and are lower than both hips.",
+        "emotion": "Disgust",
+        "lhand_pose": "Their right ring and their thumbs are slightly apart from other fingers with their middles, both indexs and their left ring beside other fingers . Their left ring, their left pinky, their left index and their left middle are bent and their left thumb is slightly bent.",
+        "rhand_pose": "The right thumb is barely bent, the right pinky is fully bent with the right index, the right middle and the right ring bent."
+    },
+    "46": {
+        "body_pose": "Both hands are further down than both hips. They are joined while her right foot is spread far apart from the left and both feet are in the back with her left knee, her elbows and her right knee bent at near a 90 degree angle, her left foot is lying beneath the right.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both thumbs are slightly spread to other fingers . Her left pinky, her left ring, her left middle and her left index are partially bent while her indexs, both rings and both middles are beside other fingers and her left thumb is barely bent.",
+        "rhand_pose": "The right thumb is nearly bent, the right ring, the right index, the right middle and the right pinky are completely bent."
+    },
+    "47": {
+        "body_pose": "Her left knee is partly bent and her right upper arm is aligned horizontally and her left foot is further down than the other, her hands are further down than her hips and separated at shoulder width. Her feet are reaching backward and wide apart with her right elbow bent, her right knee and her left elbow are bent at 90 degrees.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their right thumb is spread far apart with their left pinky, their left ring, their left index and their left middle partly bent. Their left thumb is slightly spread to other fingers , a bit bent while their indexs, both rings and their middles are beside other fingers .",
+        "rhand_pose": "Their right thumb is bent and their right middle, their right index, their right ring and their right pinky are bent to maximum."
+    },
+    "48": {
+        "body_pose": "Their left foot is underneath the right while their left knee is partially bent, their feet and their hands are backwards, their right upper arm is parallel to the floor. Their right knee and their elbows are bent at near a 90 degree angle with both hands lying beneath both hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "The indexs, both middles and the rings are near to other fingers with the left thumb bent a bit and the thumbs spread far apart.",
+        "rhand_pose": "His right index, his right ring, his right middle and his right pinky are bent to the max while his right thumb is partially bent."
+    },
+    "49": {
+        "body_pose": "Their left foot is lying beneath the right with their right knee and their elbows at right angle. Their left knee is bent and both hands are under their hips and both feet and both hands are back, their right upper arm is parallel to the floor.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both thumbs are spread far apart, the left thumb, the left ring and the left pinky are bent slightly, both middles, both rings and the indexs are near other fingers with the left middle and the left index partly bent.",
+        "rhand_pose": "The right thumb is bent while the right pinky, the right middle, the right ring and the right index are bent to maximum."
+    },
+    "50": {
+        "body_pose": "Their left upper arm is parallel to the floor while their left elbow and their left knee are partially bent, their left elbow is below the other with both feet spread far apart and extended back with both hands stretched backwards and beneath both hips, their left foot is further down than the right. Their right knee and their right elbow are forming a l shape.",
+        "emotion": "Surprise",
+        "lhand_pose": "The thumbs are spread far apart. Both indexs, the rings and the middles are close to other fingers .",
+        "rhand_pose": "The right index, the right ring, the right pinky and the right middle are bent sharply. The right thumb is rather bent."
+    },
+    "51": {
+        "body_pose": "His left upper arm is parallel to the ground. His hands are behind the back and underneath his hips and his right knee is in l-shape and his elbows and his left knee are rather bent and his left elbow is underneath his right elbow. His left foot is further down than his right foot with both feet back. They are wide apart.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb, the left ring and the left pinky are bent slightly and the left middle and the left index are rather bent and the middles, the indexs and the rings are close to other fingers and both thumbs are spread apart.",
+        "rhand_pose": "His right thumb is rather bent and his right ring, his right index, his right middle and his right pinky are fully bent."
+    },
+    "52": {
+        "body_pose": "The left upper arm and the left calf are parallel to the ground with the left foot spread far apart from the other while both feet are backwards and the right knee and the right elbow are in l-shape, the left elbow and the left knee are partially bent while both hands are back and lying beneath the hips and the right foot is further up than the left foot.",
+        "emotion": "Surprise",
+        "lhand_pose": "Her indexs, her rings and both middles are close to other fingers , her left thumb, her left pinky and her left ring are slightly bent with her left index and her left middle partly bent and both thumbs wide apart.",
+        "rhand_pose": "The right thumb is bent slightly, the right pinky and the right index are rather bent."
+    },
+    "53": {
+        "body_pose": "The right foot is spread far apart from the other while the left upper arm is flat while both hands are below both hips while the left foot is under the other, the right knee and the right elbow are bent at right angle and the left elbow and the left knee are bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "The indexs are slightly apart from other fingers with the left index and the left middle bent. The left pinky, the left thumb and the left ring are barely bent while the thumbs are wide apart. The rings and the middles are near other fingers .",
+        "rhand_pose": "The right middle and the right pinky are fully bent while the right thumb, the right ring and the right index are partly bent."
+    },
+    "54": {
+        "body_pose": "The left upper arm is aligned horizontally, both hands and the feet are stretched backwards, the feet are wide apart with both elbows and the left knee partly bent. Both hands are underneath both hips and the right foot is raised above the left. The right knee is bent at near a 90 degree angle.",
+        "emotion": "Surprise",
+        "lhand_pose": "Her right index is slightly spread to other fingers , her left ring, her left middle, her left thumb and her left pinky are bent slightly, both middles, her left index and her rings are near to other fingers while her left index is partly bent with her thumbs spread apart.",
+        "rhand_pose": "The right middle is fully bent while the right thumb is nearly bent, the right pinky, the right index and the right ring are partially bent."
+    },
+    "55": {
+        "body_pose": "The left foot is wide apart from the right foot while the right knee and the right elbow are forming a l shape, the right hand is lying beneath the right hip and the left upper arm is aligned horizontally while the right foot is further up than the other with the left knee and the left elbow rather bent and the left hand underneath the left hip.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their thumbs are spread apart, their left middle is partially bent and their right ring and both middles are beside other fingers with their left ring and their indexs slightly apart from other fingers and their left pinky, their left thumb, their left ring and their left index bent slightly.",
+        "rhand_pose": "Their right thumb is barely bent. Their right middle, their right pinky, their right ring and their right index are partially bent."
+    },
+    "56": {
+        "body_pose": "Both hands are under both hips with both knees and their right elbow forming a l shape. Their left upper arm is parallel to the floor and their feet and both hands are stretched backwards and their left elbow is rather bent while their left foot is lying beneath their right foot.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their thumbs are spread far apart, their right ring, their left index and their middles are near other fingers . Their left index, their left pinky, their left ring and their left thumb are barely bent with their left middle partly bent with their left ring and their right index slightly apart from other fingers .",
+        "rhand_pose": "The right middle, the right pinky, the right index and the right ring are partly bent. The right thumb is barely bent."
+    },
+    "57": {
+        "body_pose": "His hands are lower than both hips. His right elbow and his right knee are forming a l shape and his left knee and his left elbow are bent, his feet and his left hand are backwards with his left upper arm parallel to the floor.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb and the left ring are bent slightly and the thumbs are spread far apart with the left index, the left middle and the left pinky bent while the right ring, the right index and the middles are beside other fingers .",
+        "rhand_pose": "Their right middle, their right index, their right pinky and their right ring are bent with their right thumb nearly bent."
+    },
+    "58": {
+        "body_pose": "The hands are right next to each other and are behind the back. They are beneath both hips and the left elbow is rather bent, both feet are back, the right elbow and the knees are forming a l shape with the left hand out to the right with the left upper arm flat with the right foot lying over the left foot.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left pinky, their left index and their left middle are rather bent, their indexs, their middles and their right ring are close to other fingers and their left thumb is barely bent and spread far apart, their right thumb is wide apart while their left ring is bent a bit and is slightly spread to other fingers .",
+        "rhand_pose": "The right middle and the right index are rather bent. The right thumb, the right ring and the right pinky are a bit bent."
+    },
+    "59": {
+        "body_pose": "The left elbow and the left knee are bent, the feet, the left hand and the right hand are in their back and the hands are lying beneath the hips. The right elbow and the right knee are at right angle, the left upper arm is aligned horizontally.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both rings, the right index and the middles are close to other fingers and the left index is a bit bent. It is slightly spread to other fingers and the left pinky and the left middle are partly bent, the left thumb and the right thumb are spread far apart with the left ring and the left thumb barely bent.",
+        "rhand_pose": "The right middle is bent sharply. The right thumb is bent a bit. The right index, the right ring and the right pinky are bent."
+    },
+    "60": {
+        "body_pose": "The left upper arm is flat and the right foot, both hands and the left foot are back, the right foot is further up than the left foot. The right elbow and the right knee are in l-shape with the left elbow and the left knee partially bent and the hands under the hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "The thumbs are wide apart while both middles, the right index and the right ring are beside other fingers , the left pinky is partly bent with the left thumb and the left middle slightly bent. The left ring is bent a bit and slightly apart from other fingers .",
+        "rhand_pose": "Their right ring, their right middle and their right index are bent to maximum with their right pinky rather bent with their right thumb slightly bent."
+    },
+    "61": {
+        "body_pose": "Their right knee and their right elbow are in l-shape and both hands are underneath their hips, their right hand is joined with their left hand and their left elbow and their left knee are rather bent and their left upper arm is parallel to the floor. Both feet and both hands are back.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left pinky, the left index, the left ring, the left middle and the left thumb are bent slightly while the right ring and both middles are near other fingers , the left thumb and the right thumb are spread far apart while the indexs and the left ring are slightly apart from other fingers .",
+        "rhand_pose": "Their right middle, their right index, their right pinky and their right ring are bent sharply. Their right thumb is a bit bent."
+    },
+    "62": {
+        "body_pose": "Their right foot is behind their back and raised above their left foot while their right knee and their right elbow are bent at 90 degrees, both hands and their left foot are in their back while both hands are further down than their hips with their left upper arm flat with their left knee and their left elbow partially bent and both feet spread far apart.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left index is slightly apart from other fingers . It is nearly bent. The left middle and the left thumb are nearly bent and the left ring is bent slightly and is slightly spread to other fingers . The right ring and the middles are near other fingers and the left pinky is partly bent. The right index is slightly apart from other fingers and both thumbs are spread far apart.",
+        "rhand_pose": "The right index, the right pinky, the right middle and the right ring are bent to maximum with the right thumb bent."
+    },
+    "63": {
+        "body_pose": "Both hands are underneath the hips. They are in their back while the right foot is raised over the left foot and the right knee and the right elbow are in l-shape. The feet are behind their back, the left upper arm is horizontal, the left knee and the left elbow are partially bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both thumbs are spread apart while both middles and the right ring are near other fingers . The left pinky is partly bent, the left ring, the left thumb, the left index and the left middle are bent slightly, both indexs and the left ring are slightly apart from other fingers .",
+        "rhand_pose": "Their right ring, their right middle, their right index and their right pinky are completely bent and their right thumb is bent a bit."
+    },
+    "64": {
+        "body_pose": "Her left elbow and her left knee are partially bent. Her right knee and her right elbow are bent at 90 degrees. Her hands are backwards and are beneath her hips and both feet are in the back and are spread apart and her left upper arm is parallel to the floor.",
+        "emotion": "Surprise",
+        "lhand_pose": "Her middles and her right ring are close to other fingers and her left pinky is partly bent. Both thumbs are spread far apart and her indexs and her left ring are slightly spread to other fingers with her left thumb, her left middle, her left index and her left ring slightly bent.",
+        "rhand_pose": "The right middle and the right ring are completely bent, the right index and the right pinky are rather bent while the right thumb is nearly bent."
+    },
+    "65": {
+        "body_pose": "Both hands are below the hips, in their back. The left knee is partially bent and the left foot is beneath the other while the elbows and the right knee are bent at right angle. Both feet are behind the back.",
+        "emotion": "Surprise",
+        "lhand_pose": "The right thumb, the left ring and both indexs are slightly spread to other fingers while the left thumb is spread apart and the left pinky is partly bent, the right ring and the middles are close to other fingers , the left ring, the left thumb, the left index and the left middle are nearly bent.",
+        "rhand_pose": "Their right middle, their right ring and their right pinky are bent and their right index and their right thumb are bent a bit."
+    },
+    "66": {
+        "body_pose": "Her right foot is raised over the other, her right knee is forming a l shape while both feet are back with her left knee partly bent. Both hands are lower than her hips and are in her back and her elbows are about shoulder width apart and in l-shape with her left upper arm horizontal.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring is slightly spread to other fingers . It is barely bent and the right thumb and the indexs are slightly spread to other fingers and the left pinky is partly bent, the left index, the left thumb and the left middle are nearly bent while both middles and the right ring are near other fingers , the left thumb is spread far apart.",
+        "rhand_pose": "The right pinky, the right ring and the right middle are partially bent and the right index and the right thumb are slightly bent."
+    },
+    "67": {
+        "body_pose": "The right knee is bent at near a 90 degree angle. The left upper arm is flat with the feet extended back while the elbows are forming a l shape, about shoulder width apart and the right foot is further up than the left foot while the left knee is bent, the hands are under both hips, stretched backwards.",
+        "emotion": "Surprise",
+        "lhand_pose": "The right index, the right thumb, the left ring and the left index are slightly apart from other fingers . The left middle, the left thumb, the left ring and the left index are bent slightly, the left pinky is partially bent. The left thumb is wide apart with both middles and the right ring near other fingers .",
+        "rhand_pose": "The right ring, the right middle and the right pinky are bent. The right index and the right thumb are a bit bent."
+    },
+    "68": {
+        "body_pose": "The hands are under both hips while the feet and the left hand are behind the back and the right knee and the right elbow are at right angle, the left elbow and the left knee are rather bent. The left foot is lower than the right foot while the left upper arm is parallel to the floor.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring, the right thumb and the right index are slightly spread to other fingers , the left thumb is wide apart with the left pinky partially bent while the left ring, the left thumb and the left middle are slightly bent with the left index slightly apart from other fingers . It is bent slightly. The right ring and the middles are beside other fingers .",
+        "rhand_pose": "The right index and the right thumb are nearly bent and the right middle, the right pinky and the right ring are partially bent."
+    },
+    "69": {
+        "body_pose": "The right elbow and the right knee are forming a l shape with the hands stretched backwards and lying beneath both hips with the feet back and the left foot underneath the other and the left upper arm horizontal.",
+        "emotion": "Surprise",
+        "lhand_pose": "The right ring and the middles are near other fingers while both indexs are slightly apart from other fingers while the left ring is barely bent, slightly apart from other fingers . The left index, the left middle and the left thumb are a bit bent. The left pinky is partly bent, both thumbs are spread far apart.",
+        "rhand_pose": "Her right pinky, her right ring and her right middle are bent. Her right thumb and her right index are slightly bent."
+    },
+    "70": {
+        "body_pose": "Their right foot is spread far apart from the other. Their left knee and their left elbow are rather bent, their right elbow and their right knee are forming a l shape with their feet and their hands in their back, their hands are underneath both hips while their right upper arm is flat.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left index, their left ring, their left middle and their left thumb are a bit bent and their left pinky is bent. Both thumbs are wide apart and both middles and their right ring are beside other fingers . Their left ring and both indexs are slightly spread to other fingers .",
+        "rhand_pose": "The right thumb, the right pinky, the right ring and the right middle are partially bent, the right index is slightly bent."
+    },
+    "71": {
+        "body_pose": "The left foot is lying beneath the right with both hands lower than both hips, the left elbow and the left knee are rather bent while the feet and both hands are behind the back while the right knee and the right elbow are at right angle.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring is slightly spread to other fingers and bent a bit while the right thumb and both indexs are slightly spread to other fingers with the left thumb wide apart. It is bent slightly and the left middle and the left index bent a bit and the left pinky partly bent with the right ring and the middles close to other fingers .",
+        "rhand_pose": "The right thumb and the right index are bent a bit with the right pinky, the right ring and the right middle rather bent."
+    },
+    "72": {
+        "body_pose": "Both feet are back with the right knee and the right elbow at right angle while the right upper arm is horizontal, both elbows are about shoulder width apart. Both hands are backwards, further down than both hips, the right foot is lying over the left while the left elbow and the left knee are partially bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left ring is slightly apart from other fingers . It is a bit bent and their left thumb is wide apart while their middles and their right ring are near to other fingers with their left thumb, their left index, their left middle and their left pinky bent a bit, their indexs and their right thumb are slightly apart from other fingers .",
+        "rhand_pose": "Their right pinky, their right middle and their right ring are bent, their right index and their right thumb are bent a bit."
+    },
+    "73": {
+        "body_pose": "Their left upper arm is parallel to the floor while their left hand and their feet are in the back. Their left knee and their left elbow are partly bent, their right elbow and their right knee are bent at near a 90 degree angle, their right foot is raised over the left. Their hands are underneath their hips, their feet are spread apart.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both middles and the right ring are near other fingers , the left middle, the left ring and the left index are slightly bent, the left thumb is spread far apart and bent slightly with the left pinky rather bent.",
+        "rhand_pose": "Her right thumb and her right index are bent slightly with her right pinky, her right middle and her right ring partly bent."
+    },
+    "74": {
+        "body_pose": "Her hands and her feet are in her back with both elbows and her right knee at right angle, her left knee is partially bent, her hands are below both hips. Her right foot is further up than the other.",
+        "emotion": "Surprise",
+        "lhand_pose": "His left middle, his left index, his left ring and his left pinky are a bit bent. His indexs, his right thumb and his left ring are slightly apart from other fingers . His right ring and his middles are near other fingers and his left thumb is spread far apart and is a bit bent.",
+        "rhand_pose": "Their right index and their right thumb are bent a bit while their right middle, their right pinky and their right ring are partly bent."
+    },
+    "75": {
+        "body_pose": "The hands are lying beneath the hips and the feet and both hands are in the back and the left foot is further down than the right foot with the right knee and the right elbow in l-shape, the left upper arm is parallel to the ground while the left elbow and the left knee are partially bent.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left thumb, the left index, the left ring and the left middle are barely bent, the left ring, the left index, the right thumb and the right index are slightly spread to other fingers , the right ring and the middles are beside other fingers while the left thumb is spread apart, the left pinky is rather bent.",
+        "rhand_pose": "Her right thumb is slightly bent while her right pinky, her right index, her right ring and her right middle are partially bent."
+    },
+    "76": {
+        "body_pose": "Her left hand and both feet are behind her back with her right elbow and her right knee bent at right angle. Her left knee and her left elbow are bent with her left foot wide apart from the right. Her hands are under her hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "His left index, his left thumb, his left ring, his left middle and his left pinky are a bit bent. His right ring and his middles are near to other fingers with his left thumb spread apart and his left ring, his right thumb and both indexs slightly apart from other fingers .",
+        "rhand_pose": "The right thumb is slightly bent. The right ring, the right pinky, the right middle and the right index are partly bent."
+    },
+    "77": {
+        "body_pose": "Both hands are lower than the hips and both feet are spread apart with the left knee and the left elbow partially bent with the right elbow and the right knee at right angle with both hands and both feet backwards and the right foot over the left foot.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both middles, the right ring and the left index are beside other fingers , the thumbs are spread apart. The left ring and the right index are slightly apart from other fingers , the left pinky is partially bent. The left middle, the left thumb, the left ring and the left index are slightly bent.",
+        "rhand_pose": "The right middle, the right pinky, the right ring, the right thumb and the right index are bent."
+    },
+    "78": {
+        "body_pose": "Their right foot is wide apart from the left while their feet are in their back, their left hand is reaching to the right. Their left elbow and their left knee are partly bent. Their hands are under both hips. They are in the back while their right knee and their right elbow are bent at near a 90 degree angle.",
+        "emotion": "Surprise",
+        "lhand_pose": "The right ring, the left index and both middles are close to other fingers . The left index, the left ring, the left pinky, the left middle and the left thumb are a bit bent with the thumbs wide apart with the left ring and the right index slightly spread to other fingers .",
+        "rhand_pose": "The right middle, the right thumb, the right pinky, the right ring and the right index are partly bent."
+    },
+    "79": {
+        "body_pose": "The right elbow and the right knee are in l-shape with both hands lying beneath both hips. The right foot is raised higher than the left foot. The left knee and the left elbow are partly bent while the left hand and the feet are stretched backwards and the left calf and the upper arms are aligned horizontally.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring and the left index are slightly apart from other fingers , the left middle, the left thumb, the left ring and the left index are slightly bent. Both thumbs are spread apart, the left pinky is partly bent and the right middle, the left middle, the right index and the right ring are close to other fingers .",
+        "rhand_pose": "The right thumb is bent slightly, the right ring, the right middle, the right pinky and the right index are partially bent."
+    },
+    "80": {
+        "body_pose": "The right knee and the right elbow are bent at 90 degrees. Both hands are further down than the hips and the left hand and the feet are behind their back. The left elbow and the left knee are partially bent, both feet are spread apart. The right upper arm is parallel to the floor.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both thumbs are spread apart. The left index and the left ring are slightly spread to other fingers and the left pinky is rather bent and the left ring, the left thumb, the left middle and the left index are slightly bent with both middles, the right index and the right ring near other fingers .",
+        "rhand_pose": "The right thumb is nearly bent and the right middle, the right ring, the right pinky and the right index are partially bent."
+    },
+    "81": {
+        "body_pose": "The right elbow and the right knee are bent at right angle while the left foot is wide apart from the right foot, further down than the right foot, the hands are further down than the hips while the hands and the feet are back and the left hand is to the right.",
+        "emotion": "Surprise",
+        "lhand_pose": "The right ring, the middles and the right index are close to other fingers while the left index is bent a bit and is slightly spread to other fingers while the left middle and the left thumb are a bit bent with the left pinky partially bent with the left ring slightly spread to other fingers and a bit bent and the thumbs spread far apart.",
+        "rhand_pose": "Their right ring, their right pinky, their right middle and their right index are bent while their right thumb is bent a bit."
+    },
+    "82": {
+        "body_pose": "Their left hand and both feet are in the back while their left knee is rather bent. Their right knee and both elbows are at right angle and their left calf and their right upper arm are parallel to the ground with their left foot lying beneath their right foot, their hands are lying beneath their hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left index is nearly bent and is slightly apart from other fingers and the left thumb and the left middle are bent a bit, both thumbs are wide apart, the left ring is slightly spread to other fingers and bent slightly while the left middle, the right ring, the right middle and the right index are beside other fingers with the left pinky bent.",
+        "rhand_pose": "The right index, the right ring and the right middle are bent and the right pinky and the right thumb are bent slightly."
+    },
+    "83": {
+        "body_pose": "Both feet are spread far apart while the right elbow and the right knee are bent at near a 90 degree angle while the left knee and the left elbow are rather bent while the hands are beneath the hips.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left ring and the left index are slightly apart from other fingers while the thumbs are spread far apart, the right ring, the right index and the middles are close to other fingers . The left ring, the left thumb and the left index are bent slightly with the left pinky and the left middle partially bent.",
+        "rhand_pose": "His right middle, his right index and his right ring are rather bent while his right thumb and his right pinky are slightly bent."
+    },
+    "84": {
+        "body_pose": "The hands are underneath both hips with the right knee and the right elbow at right angle and the right upper arm parallel to the floor. The left knee and the left elbow are rather bent while the left hand and both feet are reaching backward, the left foot is lying beneath the other.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left thumb, their left ring and their left index are bent a bit and their left middle and their left pinky are partly bent and their right index, both middles and their right ring are close to other fingers and their left ring and their left index are slightly spread to other fingers with their left thumb and their right thumb spread apart.",
+        "rhand_pose": "Their right thumb is barely bent and their right pinky, their right middle, their right ring and their right index are partly bent."
+    },
+    "85": {
+        "body_pose": "Her right elbow and her right knee are at right angle while her left hand is turned to the right. Her hands are below her hips. They are backwards. Her left foot and her right foot are in the back with her left elbow and her left knee bent while her upper arms are aligned horizontally.",
+        "emotion": "Surprise",
+        "lhand_pose": "Both thumbs are spread far apart and his left ring is slightly spread to other fingers and bent a bit. His right ring, his middles and his indexs are close to other fingers . His left pinky is partially bent.",
+        "rhand_pose": "Her right index, her right middle and her right ring are partly bent and her right pinky and her right thumb are a bit bent."
+    },
+    "86": {
+        "body_pose": "The left knee and the left elbow are rather bent, the feet are behind the back, the hands are lying beneath the hips with the right foot wide apart from the left foot and raised higher than the left foot. The right elbow and the right knee are bent at near a 90 degree angle.",
+        "emotion": "Surprise",
+        "lhand_pose": "Their left pinky is rather bent while their left ring is slightly spread to other fingers and bent a bit and their left middle, their left thumb and their left index are slightly bent. Both thumbs are wide apart.",
+        "rhand_pose": "The right thumb, the right middle, the right pinky, the right index and the right ring are partly bent."
+    },
+    "87": {
+        "body_pose": "The left hand is on their right. The hands are under the hips with the left knee bent with the right knee and both elbows bent at right angle.",
+        "emotion": "Surprise",
+        "lhand_pose": "His left pinky is partially bent while both thumbs are wide apart and his left thumb, his left ring, his left index and his left middle are a bit bent while his middles, his indexs and his right ring are beside other fingers , his left ring is slightly apart from other fingers .",
+        "rhand_pose": "The right index, the right ring, the right middle and the right thumb are bent, the right pinky is nearly bent."
+    },
+    "88": {
+        "body_pose": "His right forearm is straight, his right elbow and his right knee are bent at right angle, his hands are lower than his hips, in the back, his left upper arm is parallel to the ground. His left elbow and his left knee are partially bent. His feet are in the back and spread apart.",
+        "emotion": "Surprise",
+        "lhand_pose": "The left middle, the left index, the left pinky, the left ring and the left thumb are bent a bit, the left index and the left ring are slightly spread to other fingers . Both thumbs are wide apart and the middles, the right ring and the right index are near to other fingers .",
+        "rhand_pose": "Their right ring, their right index and their right middle are partially bent while their right thumb and their right pinky are bent a bit."
+    },
+    "89": {
+        "body_pose": "The left hand is extended to the right and is in the back and the left elbow and the left knee are rather bent while the left foot is lower than the other. The right forearm is upright. Both hands are under both hips while the right knee and the right elbow are bent at near a 90 degree angle with the right hand and both feet backwards. The left upper arm is horizontal.",
+        "emotion": "Surprise",
+        "lhand_pose": "The thumbs are spread far apart with both indexs, the right ring and both middles near to other fingers with the left ring slightly apart from other fingers . The left pinky is partially bent, the left index, the left ring, the left thumb and the left middle are bent a bit.",
+        "rhand_pose": "Their right index, their right ring, their right middle and their right thumb are rather bent with their right pinky barely bent."
+    }
+}
